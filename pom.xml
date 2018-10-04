@@ -11,14 +11,14 @@
 
 
     <properties>
-        <kotlin.version>1.0.0</kotlin.version>
-	    <mapdb.version>3.0.0-M2</mapdb.version>
+        <kotlin.version>1.2.51</kotlin.version>
+	    <mapdb.version>3.0.7</mapdb.version>
 
         <java.target.version>1.8</java.target.version>
         <java.source.version>1.8</java.source.version>
 
-        <jcache.api.version>1.0.0</jcache.api.version>
-        <jcache.tck.version>1.0.1</jcache.tck.version>
+        <jcache.api.version>1.1.0</jcache.api.version>
+        <jcache.tck.version>1.1.0</jcache.tck.version>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
