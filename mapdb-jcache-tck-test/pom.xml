@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>mapdb-jcache-tck-test</artifactId>
-   
+
     <parent>
         <groupId>org.mapdb</groupId>
         <artifactId>mapdb-jcache-root</artifactId>
@@ -107,7 +107,7 @@
                                 <artifactItem>
                                     <groupId>javax.cache</groupId>
                                     <artifactId>app-domain</artifactId>
-                                    <version>${jcache.tck.version}</version>
+                                    <version>1.0.1</version>
                                     <outputDirectory>${domain-lib-dir}
                                     </outputDirectory>
                                     <destFileName>${domain-jar}</destFileName>
